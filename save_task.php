@@ -10,6 +10,7 @@ if (isset($_POST['save_task'])) {
   if(!$result) {
     die("Intentalo de nuevo.");
   }
+  
 
   $_SESSION['message'] = 'Tarea guardada';
   $_SESSION['message_type'] = 'success';
