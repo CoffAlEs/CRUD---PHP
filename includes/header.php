@@ -20,4 +20,3 @@
         <a class="navbar-brand">* * * SAE * * *</a>
       </div>
     </nav>
-    <div class="container"></div>
