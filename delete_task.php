@@ -10,6 +10,7 @@ if(isset($_GET['id'])) {
     die("Intentalo de nuevo");
   }
 
+  
   $_SESSION['message'] = 'Tarea eliminada';
   $_SESSION['message_type'] = 'danger';
   header('Location: index.php');
