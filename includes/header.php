@@ -14,6 +14,10 @@
 
     <nav class="navbar navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand" href="index.php">Adminitración de Tareas</a>
+        <a class="navbar-brand" href="index.php"><strong>~ Adminitración de Tareas ~</strong></a>
+      </div>
+      <div class="container">
+        <a class="navbar-brand">* * * SAE * * *</a>
       </div>
     </nav>
+    <div class="container"></div>
